@@ -1,6 +1,4 @@
-Certainly! Here is the professionally translated English version of your README. This is perfect for a global audience and will look great on your GitHub profile.
 
----
 
 # 🌀 Quantum Entanglement: Real Hardware Performance vs. Ideal Simulation
 
