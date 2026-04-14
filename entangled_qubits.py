@@ -12,7 +12,7 @@ bell.cx(0, 1)
 bell.measure_all()
 
 print("Quantum circuit:")
-bell.draw(output='text')  # draw() returns the diagram; print() would double-render it
+bell.draw(output='text')  
 
 def get_access_token():
     if os.path.exists('tokens.json'):
